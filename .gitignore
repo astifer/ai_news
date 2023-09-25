@@ -1,0 +1,11 @@
+
+.venv
+**/__pycache__/
+**.csv
+backend/weights_old
+**.xlsx
+**.xlsx
+
+backend/weights
+backend/weights_old
+
